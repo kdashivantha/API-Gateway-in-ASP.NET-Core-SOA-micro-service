@@ -1,4 +1,4 @@
-# OzNet
+# API-Gateway-in-ASP.NET-Core-SOA-micro-service
 A simple API Gateway made in ASP.NET Core
 
 https://medium.com/streamwriter/api-gateway-aspnet-core-a46ef259dc54
