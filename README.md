@@ -5,3 +5,4 @@ https://medium.com/streamwriter/api-gateway-aspnet-core-a46ef259dc54
 
 JWT authentication
 https://www.red-gate.com/simple-talk/dotnet/net-development/jwt-authentication-microservices-net/
+
